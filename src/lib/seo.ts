@@ -5,7 +5,7 @@ import type { CategoryDefinition } from "./tools/categories";
 export const SITE = {
   name: "ToolNow",
   tagline: "Free online tools that just work",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://toolnow-free.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://toolnow.vercel.app",
   description:
     "ToolNow is a collection of fast, free online tools — finance calculators, text utilities, developer tools, image and PDF tools — with no signup and no uploads.",
   locale: "en_IN",
